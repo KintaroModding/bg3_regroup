@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Textures are binary.
+*.dds binary
+*.DDS binary

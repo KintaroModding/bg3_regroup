@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Regroup",
+  "summary": "Adds the Regroup spell to every character: it teleports the whole party to the caster.",
+  "games": ["baldurs-gate-3"],
+  "tags": ["quality-of-life"],
+  "cover": "docs/cover.jpg",
+  "requires": ["Norbyte's Script Extender"],
+  "gameVersions": ["Patch 8"]
+}
